@@ -1,6 +1,5 @@
 <h1>
   <p align="center">
-    <img src="./docs/readme-assets/royal-reserve-bank-logo.png" alt="Royal Reserve Bank" width="300">
     </br>
     Royal Reserve Bank
   </p>
@@ -10,8 +9,6 @@
   <summary>
     <h1>Table of Contents 🡇</h1>
   </summary>
-
-<img align="right" src="./docs/readme-assets/building-icon.png" width="413">
 
    * [About](#about-)
    * [Solution Architecture](#solution-architecture-)
